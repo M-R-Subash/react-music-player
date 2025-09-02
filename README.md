@@ -39,7 +39,7 @@ A beautiful and responsive music player built with React and Tailwind CSS. Featu
 1. **Clone the repository**
    
 bash
-   git clone https://github.com/your-userInstall dependenciesgit
+   git clone https://github.com/M-R-Subash/react-music-player.git dependenciesgit
    cd react-music-player
   
 
